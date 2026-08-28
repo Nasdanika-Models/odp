@@ -1,0 +1,40 @@
+<mxfile compressed="false" host="Electron">
+  <diagram id="be7f4253-da21-4f5a-bac7-1d9cf4fbcdc8" name="odp">
+    <mxGraphModel dx="2869" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="Style" link="references/eClassifiers/Style/index.html" id="ab31c527-7360-49b4-aa13-64b5709ee678">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" y="589.6358014812116" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="OdpShape" link="references/eClassifiers/OdpShape/index.html" id="00eb597b-2e29-4686-9ec4-4a51c802aedc">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-190" y="710" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="OdpSlide" link="references/eClassifiers/OdpSlide/index.html" id="651f6c2e-e3aa-4911-8fd5-1faa2d7fe119">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-190" y="670" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="OdpPresentation" link="references/eClassifiers/OdpPresentation/index.html" id="83b5a31b-0887-42dd-b176-8cb5367b3853">
+          <mxCell parent="1" style="fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1">
+            <mxGeometry height="30" width="120" x="-190" y="589.64" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="styles" link="references/eClassifiers/OdpPresentation/references/eStructuralFeatures/styles/index.html" id="f8ea09e2-3130-4165-828e-cb5d6266883d">
+          <mxCell edge="1" parent="1" source="83b5a31b-0887-42dd-b176-8cb5367b3853" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="ab31c527-7360-49b4-aa13-64b5709ee678">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="OpaqueElement" link="references/eClassifiers/OpaqueElement/index.html" id="3d49dd57-b80d-48f7-b33a-521ae7f48d44">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-190.00293656709545" y="630" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
